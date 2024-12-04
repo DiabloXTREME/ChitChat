@@ -1,4 +1,7 @@
 # ChitChat: Fast, Lightweight, and Private Messanger
+<h1><div style="background-color: #FFCCCC; color: #333; padding: 15px; border-radius: 5px; border: 1px solid #FF9999;">
+  <strong style="font-size: 1.2em;">⚠️WARNING:</strong> This is the testing and experimentation branch, none of the code here should be used as an actual application. 
+</div></h1>
 
 ## What Is It?
 
@@ -18,3 +21,4 @@ _ChitChat_ is a simple P2P chat application that has **plans** (WIP) for group c
 10. Voice Calls **(WIP)**
 11. Video Calls **(WIP)**
 12. Discord Rich Presence + Integration **(WIP)**
+

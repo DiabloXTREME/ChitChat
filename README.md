@@ -16,7 +16,7 @@ _ChitChat_ is a simple P2P chat application that has **plans** (WIP) for group c
 5. Servers: Channels **(WIP)**
 6. Server Finding **(WIP)**
 7. Spotify Integration **(WIP)**
-8. Add/Use Accounts From Social Media **(WIP**
+8. Add/Use Accounts From Social Media **(WIP)**
 9. Media Sending **(WIP)**
 10. Voice Calls **(WIP)**
 11. Video Calls **(WIP)**
